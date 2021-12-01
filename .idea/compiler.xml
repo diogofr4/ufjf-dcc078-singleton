@@ -9,7 +9,6 @@
         <module name="singleton" />
         <module name="padrao-singleton-master" />
         <module name="ufjf-dcc078-singleton" />
-        <module name="diogofr4-ufjf-dcc078-builder" />
       </profile>
     </annotationProcessing>
   </component>
